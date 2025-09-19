@@ -1,4 +1,4 @@
 # myFirstRepo
 This Is My First Repository
 <br>
-Author - Raj (Gehlot)
+Author - Raj Gehlot
